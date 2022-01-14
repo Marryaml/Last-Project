@@ -1,0 +1,97 @@
+/* Header */
+.first-box{
+    /* display: -webkit-box;
+    display: -ms-flexbox; */
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    width: 1606px;
+    height: 191px;
+    margin-left: 174px;
+    margin-top: 77px;
+    margin-right: 140px;
+    flex-direction: wrap;
+    position: relative;
+    
+}
+.sec-box{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    max-width: 100%;
+    width: 150px;
+    height: 250px;
+
+}
+.tw-icon{
+    width: 25px;
+    height: 25px;   
+}
+.inst-icon{
+    width: 25px;
+    height: 25px;
+    margin-top: 58px;
+    margin-top: 58px;
+}
+.fb-icon{
+    width: 25px;
+    height: 25px;
+    margin-top: 58px;
+}
+.micon{
+    display: flex;
+    align-items: center;
+    margin-top: 89px;
+    margin-bottom: 100px;
+    width: 243px;
+    height: 90px;
+    margin-right: 638px;
+    margin-left: 438px;
+}
+
+.third-box{
+    display: flex;
+    flex-direction: column;
+    max-width: 1313px;
+    width: 90%;
+    margin-right: 467px;
+    
+
+}
+.navigation{
+    display: flex;
+    max-width: 800px;
+    width: 100%;
+    margin-right: 467px;
+    margin-bottom: 120px;
+    margin-left: 100px;
+    justify-content: space-around;   
+}
+.nav-li{
+    font-family: Poppins;
+    margin-right: 27px;
+   
+}
+.small-box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 131px;
+    height: 45px;
+    border-radius: 23px;
+    text-align: center;
+    background: #F9E7E7;
+    text-align: center;
+    margin-left: 1100px;
+    max-width: 100px;
+    font-family: Poppins;
+    position: absolute;
+    margin-top: 265px;
+    margin-right: 300px;
+
+
+
+
+
+    
+}
