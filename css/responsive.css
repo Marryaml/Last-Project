@@ -1,0 +1,35 @@
+ header responsive
+@media (max-width: 768px) {
+    .navigation{
+        display: none;
+    }
+    .small-box{
+        display: none;
+    }
+
+    .burger-icon{
+        display: block;
+    }
+    
+} 
+
+@media (max-width: 768px) {
+    .bg_image{
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    .mpar{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .mbox1{
+        flex-wrap: wrap;
+        align-items: center;
+
+    }
+}
+
+
+
