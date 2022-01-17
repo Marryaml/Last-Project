@@ -1,7 +1,11 @@
- header responsive
+
 @media (max-width: 768px) {
+    .third-box{
+        display: none;
+    }
     .navigation{
         display: none;
+  
     }
     .small-box{
         display: none;
@@ -30,6 +34,4 @@
 
     }
 }
-
-
-
+ 
